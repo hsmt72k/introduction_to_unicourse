@@ -216,10 +216,12 @@ UniCourse
 
 コースを購入していない場合  
 
-<video src="./images/unicourse_page_student_chapter_payment.mp4" controls="true"></video>
+<!-- ./images/unicourse_page_student_chapter_before_payment.mp4 -->
+<video src="https://github.com/user-attachments/assets/fcf81afd-3397-4565-a87d-b11b806ba037" controls="true"></video>
 
 コースを購入している場合  
 
+<!-- ./images/unicourse_page_student_chapter.mp4 -->
 <video src="https://github.com/user-attachments/assets/bea0a801-2608-4173-b1c8-0b3f59c1dbd5" controls="true"></video>
 
 ##### サイドバー
