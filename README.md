@@ -170,6 +170,8 @@ UniCourse
 
 <img src="./images/page_student_dashboard.png" width="360px" />
 
+[ダッシュボード](#dashboard) の説明動画を見る
+
 #### コース検索ページ
 
 <img src="./images/page_student_search.png" width="360px" />
@@ -178,7 +180,7 @@ UniCourse
 
 <img src="./images/page_student_chapter.png" width="360px" />
 
-[チャプタページ](#chapter_page) の動画説明を見る
+[チャプタページ](#chapter_page) の説明動画を見る
 
 #### 決済ページ
 
@@ -210,7 +212,10 @@ UniCourse
 
 ### 受講者向けページ  
 
-#### ダッシュボード
+#### <a name="dashboard">ダッシュボード</a>
+
+<!-- ./images/unicourse_page_student_dashboard.mp4 -->
+<video src="https://github.com/user-attachments/assets/47faf541-79de-4b4a-bb46-5739f7a40b03" controls="true"></video>
 
 #### <a name="chapter_page">チャプタページ</a>
 
