@@ -220,9 +220,7 @@ UniCourse
 
 コースを購入している場合  
 
-<video src="./images/unicourse_page_student_chapter.mp4" controls="true"></video>
-
-[![](https://i.ytimg.com/vi/nS5yTVzgaLg/maxresdefault.jpg)](https://www.youtube.com/embed/nS5yTVzgaLg)
+<video src="https://github.com/user-attachments/assets/bea0a801-2608-4173-b1c8-0b3f59c1dbd5" controls="true"></video>
 
 ##### サイドバー
 
