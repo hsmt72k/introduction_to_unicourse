@@ -176,6 +176,8 @@ UniCourse
 
 <img src="./images/page_student_search.png" width="360px" />
 
+[コース検索ページ](#search) の説明動画を見る
+
 #### チャプタページ
 
 <img src="./images/page_student_chapter.png" width="360px" />
@@ -216,6 +218,11 @@ UniCourse
 
 <!-- ./images/unicourse_page_student_dashboard.mp4 -->
 <video src="https://github.com/user-attachments/assets/47faf541-79de-4b4a-bb46-5739f7a40b03" controls="true"></video>
+
+#### <a name="search">コース検索ページ</a>
+
+<!-- ./images/unicourse_page_student_search.mp4 -->
+<video src="https://github.com/user-attachments/assets/13f52055-e29b-45e0-bf06-c54e59c03a17" controls="true"></video>
 
 #### <a name="chapter_page">チャプタページ</a>
 
