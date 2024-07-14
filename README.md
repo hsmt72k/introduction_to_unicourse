@@ -222,7 +222,7 @@ UniCourse
 
 <video src="./images/unicourse_page_student_chapter.mp4" controls="true"></video>
 
-<img src="./images/unicourse_page_student_chapter.webm" width="360px" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nS5yTVzgaLg?si=WdCvVRQaP1ZZgnqP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ##### サイドバー
 
