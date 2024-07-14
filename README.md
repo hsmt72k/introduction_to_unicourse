@@ -222,7 +222,7 @@ UniCourse
 
 <video src="./images/unicourse_page_student_chapter.mp4" controls="true"></video>
 
-![alt設定](http://img.youtube.com/vi/nS5yTVzgaLg/0.jpg)](https://www.youtube.com/embed/watch?v=nS5yTVzgaLg)
+[![alt設定](http://img.youtube.com/vi/nS5yTVzgaLg/0.jpg)](https://www.youtube.com/embed/watch?v=nS5yTVzgaLg)
 
 ##### サイドバー
 
