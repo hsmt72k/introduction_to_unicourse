@@ -222,7 +222,7 @@ UniCourse
 
 <video src="./images/unicourse_page_student_chapter.mp4" controls="true"></video>
 
-<p><video width="560" height="315" controls="controls" controlslist="nodownload" oncontextmenu="return false;" class="mtz-lpcbi"> <source src="./images/unicourse_page_student_chapter.mp4" type="video/mp4"> 対応するブラウザでお試しください。</video></p>
+<img src="./images/unicourse_page_student_chapter.webm" width="360px" />
 
 ##### サイドバー
 
