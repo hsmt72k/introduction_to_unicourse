@@ -14,6 +14,7 @@
     <img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=fff" />
     <img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=fff" />
     <img src="https://img.shields.io/badge/prisma-0C344B?style=for-the-badge&logo=prisma&logoColor=fff" />
+    <img src="https://img.shields.io/badge/Cockroach%20Labs-6933FF?style=for-the-badge&logo=cockroachlabs&logoColor=fff" />
     <img src="https://img.shields.io/badge/uploadthing-B91B1B?style=for-the-badge&logo=uploadthing&logoColor=fff" />
     <img src="https://img.shields.io/badge/mux-F46101?style=for-the-badge&logo=mux&logoColor=000" />
   </div>
@@ -182,11 +183,13 @@ UniCourse
 
 <img src="./images/page_student_chapter.png" width="360px" />
 
-[チャプタページ](#chapter_page) の説明動画を見る
+[チャプタページ](#chapter) の説明動画を見る
 
 #### 決済ページ
 
 <img src="./images/page_student_payment.png" width="360px" />
+
+[決済ページ](#payment) の説明動画を見る
 
 ### コース作成者向けページ
 
@@ -247,7 +250,7 @@ UniCourse
 <!-- ./images/unicourse_page_student_search.mp4 -->
 <video src="https://github.com/user-attachments/assets/13f52055-e29b-45e0-bf06-c54e59c03a17" controls="true"></video>
 
-#### <a name="chapter_page">チャプタページ</a>
+#### <a name="chapter">チャプタページ</a>
 
 コースを購入していない場合  
 
@@ -303,6 +306,18 @@ UniCourse
 
 ##### 動画再生
 
+- チャプタページを開くと動画が自動再生される
+
+- 動画が最後まで再生された場合、次のチャプタがあれば、次のチャプタに自動で進む
+
+##### 紙吹雪
+
+- すべてのチャプタが完了状態になると、画面の上部から紙吹雪が降ってくる
+
+#### <a name="chapter">決済ページ</a>
+
+<!-- ./images/unicourse_page_student_payment.mp4 -->
+<video src="https://github.com/user-attachments/assets/6383445b-7452-4a3b-ac1d-aa382acb6262" controls="true"></video>
 
 ## <a name="outro">🤸 おわりに</a>
 
