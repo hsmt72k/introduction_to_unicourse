@@ -216,6 +216,18 @@ UniCourse
 
 #### <a name="dashboard">ダッシュボード</a>
 
+購入済みのコースが一覧表示される画面。
+
+上部には、コースの統計情報が表示される。
+
+進行中のコース、完了しているコース、それぞれのコースの累計数が統計情報として表示される。
+
+統計情報の下には、購入済みのすべてのコースがカード形式で一覧表示される。
+
+各コースのサムネイル画像、タイトル、カテゴリ、チャプタ数、学習進捗度がプログレスバーで表示される。
+
+
+
 <!-- ./images/unicourse_page_student_dashboard.mp4 -->
 <video src="https://github.com/user-attachments/assets/47faf541-79de-4b4a-bb46-5739f7a40b03" controls="true"></video>
 
