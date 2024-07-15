@@ -317,7 +317,7 @@ UniCourse
 #### <a name="payment">決済ページ</a>
 
 <!-- ./images/unicourse_page_student_payment.mp4 -->
-<video src="https://github.com/user-attachments/assets/6383445b-7452-4a3b-ac1d-aa382acb6262" controls="true"></video>
+<video src="https://github.com/user-attachments/assets/581f47da-f905-46c5-a397-354fa649d73f" controls="true"></video>
 
 ## <a name="outro">🤸 おわりに</a>
 
