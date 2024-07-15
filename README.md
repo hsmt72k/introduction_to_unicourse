@@ -314,7 +314,7 @@ UniCourse
 
 - すべてのチャプタが完了状態になると、画面の上部から紙吹雪が降ってくる
 
-#### <a name="chapter">決済ページ</a>
+#### <a name="payment">決済ページ</a>
 
 <!-- ./images/unicourse_page_student_payment.mp4 -->
 <video src="https://github.com/user-attachments/assets/6383445b-7452-4a3b-ac1d-aa382acb6262" controls="true"></video>
