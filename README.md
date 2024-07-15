@@ -197,6 +197,8 @@ UniCourse
 
 <img src="./images/page_teacher_courses_data_table.png" width="360px" />
 
+[作成コース一覧ページ](#course_list) の説明動画を見る
+
 #### コース登録ページ
 
 <img src="./images/page_teacher_create_course.png" width="360px" />
@@ -319,6 +321,14 @@ UniCourse
 <!-- ./images/unicourse_page_student_payment.mp4 -->
 <video src="https://github.com/user-attachments/assets/581f47da-f905-46c5-a397-354fa649d73f" controls="true"></video>
 
+### コース作成者向けページ  
+
+#### <a name="course_list">作成コース一覧ページ</a>
+
+<!-- ./images/unicourse_teacher_created_course_list.mp4 -->
+<video src="https://github.com/user-attachments/assets/06cce2aa-bf92-41a4-8a99-0b294e5b5959" controls="true"></video>
+
 ## <a name="outro">🤸 おわりに</a>
 
 UniCourse は、オンライン動画学習コースのプラットフォームとしては基本的な機能を備えています。最低限として揃えている機能はシンプルですが、追加で様々な機能を追加しやすいように、拡張性を考えた処理の部品化、表示部品を組み合わせて画面を構築（コンポーネント化）しています。
+FocuSee Project 2024-07-15 01-11-32.focusee
