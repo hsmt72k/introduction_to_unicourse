@@ -207,11 +207,13 @@ UniCourse
 
 #### コース設定ページ
 
-<img src="./images/page_teacher_course_setting.png" width="360px" />
+<img src="./images/page_teacher_course_settings.png" width="360px" />
+
+[コース設定ページ](#course_settings) の説明動画を見る
 
 #### チャプタ設定ページ
 
-<img src="./images/page_teacher_chapter_setting.png" width="360px" />
+<img src="./images/page_teacher_chapter_settings.png" width="360px" />
 
 #### 売上分析ページ
 
@@ -334,6 +336,11 @@ UniCourse
 
 <!-- ./images/unicourse_teacher_course_register.mp4 -->
 <video src="https://github.com/user-attachments/assets/7ae6ed76-0bf4-40d2-aa0e-14bf118d76d6" controls="true"></video>
+
+#### <a name="course_settings">コース設定ページ</a>
+
+<!-- ./images/unicourse_teacher_course_settings.mp4 -->
+<video src="https://github.com/user-attachments/assets/38317ec3-5cfb-4b27-972f-33e0ea7535fe" controls="true"></video>
 
 ## <a name="outro">🤸 おわりに</a>
 
