@@ -65,6 +65,8 @@ https://unicourse-lemon.vercel.app
 - ⌨️ 100% TypeScript で作られた堅牢で保守性の高いソースコード  
 🎁 ... その他、ユーザフレンドリな機能が多数
 
+[レスポンシブレイアウト設計](#responsive) の表示動画を見る
+
 ## <a name="screen_list">💻 画面一覧</a>
 
 ```
@@ -348,6 +350,13 @@ UniCourse
 
 <!-- ./images/unicourse_teacher_course_settings.mp4 -->
 <video src="https://github.com/user-attachments/assets/38317ec3-5cfb-4b27-972f-33e0ea7535fe" controls="true"></video>
+
+### <a name="responsive">✅ レスポンシブレイアウト設計</a>
+ 
+デバイスに合わせてレイアウトが変更され、美しく、見やすく、利用しやすいように表示する
+
+<!-- ./images/unicourse_responsive.mp4 -->
+<video src="https://github.com/user-attachments/assets/96ac53cd-7606-40e9-bffe-04a00508c52b" controls="true"></video>
 
 ## <a name="outro">🤸 おわりに</a>
 
